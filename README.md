@@ -6,6 +6,7 @@
 
 - Esse projeto foi um desafio de HTML e CSS do Frontend Mentor 🔥🚀 
 - #️⃣desafios #️⃣crescimento #️⃣carreira dev
+* **[NFT- card component](https://helena-lujan-gomes.github.io/nft-preview-card-component/)** 
 
 
 
